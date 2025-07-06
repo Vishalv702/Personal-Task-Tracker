@@ -33,6 +33,11 @@ The **Personal Task Tracker** is a responsive, user-friendly web app that allows
 
 ---
 
+## 🔗 Live Demo
+https://prismatic-meerkat-bd609e.netlify.app/
+
+---
+
 ## 🛠️ Setup Instructions
 
 Follow the steps below to run the project locally:
